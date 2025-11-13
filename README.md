@@ -16,10 +16,3 @@ This repository is my technical portfolio — showcasing hands-on projects, cust
 
 ### 🧩 Projects
 - 🔍 [vulnverse crawler](https://github.com/rc-raizen/vulnverse) – Lightweight scoped crawler for recon & vuln scanning  
-  
----
-
-## 📈 Roadmap
-- [ ] Nuclei Runbook (demo infra)
-- [ ] VulnVerse Crawler
-- [ ] Portfolio dashboard for vulnerability visualization
